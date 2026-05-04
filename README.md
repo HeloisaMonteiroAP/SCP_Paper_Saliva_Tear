@@ -14,5 +14,5 @@ Affiliations
 5 Departamento de Clínica Médica, Faculdade de Medicina de Jundiaí - FMJ, Jundiaí, SP 13202-550, Brazil;
 6 Departamento de Cirurgia de Cabeça e Pescoço, Faculdade de Medicina de Jundiaí - FMJ, Jundiaí, SP, 13202-550, Brazil;
 7 Hospital São Vicente de Paula, Jundiaí, SP, 13201-625, Brazil.
-* These authors contributed equally to this work. 
+*These authors contributed equally to this work. 
 #Lead contact: adriana.paesleme@lnbio.cnpem.br
