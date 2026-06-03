@@ -2,7 +2,7 @@
 **Affiliation:** Brazilian Center for Research in Energy and Materials (CNPEM)  
 **Note:** This notebook contains original code developed by the author for data analysis and visualization.
 
-Single-cell proteomics of saliva enables noninvasive mapping of tumor-associated immune states in oral cancer
+Saliva single-cell proteomics reveals immune dynamics associated with oral cancer progression  ​
 
 Heloísa Monteiro do Amaral-Prado1*, Jackson Gabriel Miyamoto1*, Daniella de Figueiredo1, Fábio Malta de Sá Patroni1,  Nilson Antônio da Rocha Coimbra1, Ariane Fidelis Busso-Lopes1, Guilherme Pimentel Telles2, Carolina Moretto Carnielli1, Daniela Campos Granato1, Guilherme A. Câmara1, Mauricio Frota Camacho1, Elaine Cristina Cardoso1, Tatiane de Rossi1, Romênia Ramos Domingues1, Bianca Alves Pauletti1, Ana Leticia Mores3, Ana Carolina Prado-Ribeiro3, Thaís Bianca Brandão3, Luiz Paulo Kowalski4, Alan Roger Santos-Silva3, Marcio Ajudarte Lopes3,  Nilva K Cervigne5,  André Afonso Nimtz Rodrigues6,7,  André Luís Maion Casarim6,7, Adriana Franco Paes Leme1#
 
