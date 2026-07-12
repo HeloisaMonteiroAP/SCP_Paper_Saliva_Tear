@@ -16,3 +16,5 @@ Affiliations
 7 Hospital São Vicente de Paula, Jundiaí, SP, 13201-625, Brazil.
 *These authors contributed equally to this work. 
 #Lead contact: adriana.paesleme@lnbio.cnpem.br
+
+Files do download for processing data are available at: https://doi.org/10.5281/zenodo.17181001.
